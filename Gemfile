@@ -33,6 +33,8 @@ gem 'devise'
 gem "sassc-rails"
 gem 'bootstrap-sass'
 
+gem 'rails-controller-testing'
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
